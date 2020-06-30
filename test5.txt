@@ -1,5 +1,8 @@
 123213213214123123
+<<<<<<< HEAD
 9670e9128f6eb7368027f2a87fbdfeb64e1ae663
 AaaaaaAAAAAAAAAAA
 11111111111111111
  dht
+=======
+>>>>>>> parent of 9670e91... Update test5.txt
